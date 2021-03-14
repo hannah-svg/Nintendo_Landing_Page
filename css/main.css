@@ -48,7 +48,7 @@ html {
 }
 
 p {
-  font-size: 14px;
+  font-size: 20px;
   color: #a1a1a1;
   line-height: 26px;
   font-family: 'Roboto', sans-serif;
@@ -120,7 +120,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 }
 
 .section-header .section-title {
-  font-size: 50px;
+  font-size: 70px;
   margin-bottom: 20px;
   font-family: 'Poppins', sans-serif;
   font-weight: 600;
@@ -139,7 +139,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
    Buttons
    ========================================================================== */
 .btn {
-  font-size: 14px;
+  font-size: 16px;
   padding: 10px 30px;
   border-radius: 30px;
   font-family: 'Poppins', sans-serif;
@@ -299,7 +299,7 @@ button:focus {
   text-transform: uppercase;
   font-weight: 700;
   margin-bottom: 20px;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .clear {
@@ -494,7 +494,7 @@ button:focus {
 
 .hero-area .contents p {
   color: #fff;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 26px;
 }
 
@@ -704,7 +704,7 @@ button:focus {
 }
 
 .pricing-table .price span {
-  font-size: 12px;
+  font-size: 18px;
   line-height: 15px;
   font-weight: 400;
   color: #A2A2A2;
